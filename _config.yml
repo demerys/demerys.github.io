@@ -1,0 +1,12 @@
+# Site settings
+title: Société DEMERYS - Conseil et gestion en immobilier
+email: contact@demerys.com
+description: > # this means to ignore newlines until "baseurl:"
+  Société de conseil en immobilier et placements.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://demerys.com" # the base hostname & protocol for your site
+twitter_username: demerys
+github_username:  demerys
+
+# Build settings
+markdown: kramdown
